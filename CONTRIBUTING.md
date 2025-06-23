@@ -1,1 +1,5 @@
- All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+## Cómo contribuir
+- Haz un fork del repositorio.
+- Crea una nueva rama.
+- Haz tus cambios.
+- Abre un Pull Request.
